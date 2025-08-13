@@ -1,0 +1,1 @@
+{"name":"Local: first_code","url":"d:\\code_python\\first_code.py","tests":[{"id":1751252649293,"input":"3\n1 2 3","output":"['learnpoint@learningpoint.net']"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code_python\\first_code.py","group":"local","local":true}
