@@ -1,1 +1,1 @@
-{"name":"Local: ICPC0107","url":"d:\\code_python\\ICPC0107.py","tests":[{"id":1755068626522,"input":"2\n5 6\n645 \n666\n5 6\n0\n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code_python\\ICPC0107.py","group":"local","local":true}
+{"name":"Local: ICPC0107","url":"d:\\code_python\\ICPC0107.py","tests":[{"id":1755068626522,"input":"1\n5 6\n 645\n666","output":"1100  1312"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code_python\\ICPC0107.py","group":"local","local":true}
