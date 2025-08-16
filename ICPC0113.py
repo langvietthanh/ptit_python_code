@@ -16,7 +16,5 @@ if __name__ == '__main__' :
         n = int(input())
         for i in range (n):
             ir = "".join(reversed(str(i)))
-            # print (ir)
-
             if prime[i] and prime[int(ir)] and int(ir) < n and int(ir) > i : print (i , ir ,end=" ")
         print ();
